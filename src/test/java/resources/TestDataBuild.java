@@ -10,6 +10,10 @@ public class TestDataBuild {
 	
 	public AddPlace addPlacePayload(String name, String language, String address)
 	{
+		System.out.println("proofcommits");
+		System.out.println("proofcommits");
+		System.out.println("proofcommits");
+		
 		AddPlace p = new AddPlace();
 		p.setAccuracy(50);
 		p.setAddress(address);

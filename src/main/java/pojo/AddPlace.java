@@ -4,6 +4,10 @@ import java.util.List;
 
 public class AddPlace {
 
+		System.our.println("proofcommits");
+		System.our.println("proofcommits");
+		System.our.println("proofcommits");
+
 	private Location location;
 	private int accuracy;
 	private String name;
